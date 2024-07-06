@@ -1,4 +1,4 @@
-# Neural Systems: Integrate-and-Fire Model
+# Integrate and Fire Model
 
 This repository contains a simulation of two integrate-and-fire neurons coupled through synaptic conductances. The neurons are analyzed for their response to a constant input current, and the synchrony of their spikes is evaluated.
 
